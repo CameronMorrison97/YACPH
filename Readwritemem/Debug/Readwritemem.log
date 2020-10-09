@@ -1,0 +1,3 @@
+﻿  Readwritemem.cpp
+C:\Users\camer\source\repos\Readwritemem\Readwritemem\Readwritemem.cpp(35,9): warning C4101: 'playerMana': unreferenced local variable
+  Readwritemem.vcxproj -> C:\Users\camer\source\repos\Readwritemem\Debug\Readwritemem.exe
